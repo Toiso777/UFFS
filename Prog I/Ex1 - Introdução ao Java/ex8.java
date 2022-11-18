@@ -7,8 +7,6 @@ public class ex8 {
         Scanner leitor= new Scanner(System.in);
         int maior = 0,menor =0;
         
-        
-        
         for(i=0;i<= vetor.length-1;i++){
             System.out.print("Digite 10 valores : ");
             vetor[i]=leitor.nextInt();
